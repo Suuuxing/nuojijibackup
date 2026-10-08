@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791472123747,
+  "timestamp": 1791472194953,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -177,7 +177,9 @@
     "isekaiPresets": true,
     "pomodoroData": true,
     "regexRules": true,
-    "mcpServers": true
+    "mcpServers": true,
+    "commitments": true,
+    "characterLifeState": true
   },
   "source": "auto",
   "inProgress": true
