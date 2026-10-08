@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791471489905,
+  "timestamp": 1791471539985,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -118,7 +118,7 @@
     "roleStickers": 2,
     "ttsAudio": 3,
     "imageStore": 25,
-    "stickerStore": 1
+    "stickerStore": 2
   },
   "completedTables": {
     "characters": true,
@@ -153,7 +153,8 @@
     "groupChats": true,
     "xinsheng": true,
     "xinshengRounds": true,
-    "couplesData": true
+    "couplesData": true,
+    "quickReplies": true
   },
   "source": "auto",
   "inProgress": true
