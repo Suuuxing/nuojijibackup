@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791470608048,
+  "timestamp": 1791470637831,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -150,7 +150,8 @@
     "customCalendars": true,
     "groupChats": true,
     "xinsheng": true,
-    "xinshengRounds": true
+    "xinshengRounds": true,
+    "couplesData": true
   },
   "source": "auto",
   "inProgress": true
